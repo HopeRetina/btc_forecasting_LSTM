@@ -1,2 +1,5 @@
 # btc_forecasting_LSTM
-Here's a project where I predicted bitcoin prices using LSTM 
+
+A small project that I used data visualization to look into the crypto market during the period 2021-2022.
+
+And a project where I predicted bitcoin prices using LSTM 
